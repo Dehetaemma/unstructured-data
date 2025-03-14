@@ -1,4 +1,4 @@
-Description of Research Problem
+
 As we know, AI technologies will most likely create a different set of
 employability-related challenges for data scientists in certain parts of the world while
 generating multiple opportunities in other parts of the world. Indeed, experts are
@@ -9,10 +9,15 @@ disparities within countries. Our analysis examines text to uncover trends and
 relationships between job roles, salaries, and geographic variations, providing insights
 into the evolving data science industry.
 Our project questions are as follows:
+
+
 ● What are the skills/salary trends for data-related roles when considering
 country and GDP?
 ● Do variables such as job category, company size, and education level affect
 salary-related findings and interact with job location?
+
+
+
 Text Mining
 Text mining is a powerful tool for extracting valuable insights from textual data, a
 process that's particularly relevant when analyzing datasets consisting of job
